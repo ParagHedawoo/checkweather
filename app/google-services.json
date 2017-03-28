@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "685232075386",
+    "firebase_url": "https://checkweather-64898.firebaseio.com",
+    "project_id": "checkweather-64898",
+    "storage_bucket": "checkweather-64898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685232075386:android:d3dad59b00495be1",
+        "android_client_info": {
+          "package_name": "com.example.paraghedawoo.checkweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685232075386-npa67cpmngqcfm7ba819784e0kj2bdlb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paraghedawoo.checkweather",
+            "certificate_hash": "B3ABE34D42A58FFD43DB500A7A2FAF63443EE551"
+          }
+        },
+        {
+          "client_id": "685232075386-okqsr3r59o017iaut3va1fj9q3ueeklp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoEZEybNrWlcHeUq2_WS9ybxXaQxBhzg0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685232075386-okqsr3r59o017iaut3va1fj9q3ueeklp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
